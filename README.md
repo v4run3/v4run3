@@ -16,9 +16,6 @@ Hello,My name is Varun, and I am a passionate programmer and open-source enthusi
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-###
-
-<img src="https://raw.githubusercontent.com/v4run3/v4run3/output/snake.svg" alt="Snake animation" />
 
 ###
 [![](https://visitcount.itsvg.in/api?id=v4run3&icon=0&color=0)](https://visitcount.itsvg.in)
