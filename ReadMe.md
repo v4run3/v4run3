@@ -1,18 +1,99 @@
-# 💫 About Me:
-Hello, My name is Varun, and I am a passionate programmer and open-source enthusiast.<br>I am always looking for new technologies and programming languages to learn.<br>My GitHub page showcases my work and collaborations, and I am constantly seeking for new methods to learn.<br><br>Explore my repositories and get in touch with me!<br>
+<div align="center">
 
+```
+~/varun $ whoami
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=v4run3&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=v4run3&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=v4run3&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# `VARUN BHONSLAY.`
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Freelance Full-Stack + AI Developer** · Mumbai, IN · `UTC+5:30`
+
+Building robust full-stack architectures and AI-powered apps. Shipping at the edge.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/varun-vinay-bhonslay/)
+[![Email](https://img.shields.io/badge/email-say_hi-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:sophosai007@gmail.com)
+![Status](https://img.shields.io/badge/status-open__to__work-22c55e?style=flat-square&labelColor=0d0d0d)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=v4run3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```jsonc
+// ~/profile/varun.json
+{
+  "name":     "Varun Bhonslay",
+  "role":     "Full-stack + AI",
+  "level":    "Master's, Computer Engineering — year 1",
+  "school":   "K. J. Somaiya College of Engineering",
+  "stack":    ["Python", "AI/ML", "MERN", "Edge"],
+  "focus":    "edge APIs → LLM-powered interfaces",
+  "location": "Mumbai, India",
+  "status":   "open_to_work"
+}
+```
+
+### `> about`
+
+First-year Master's student in Computer Engineering at **K. J. Somaiya**, focused on Python and applied AI. I build full-stack apps end-to-end — from edge APIs to LLM-powered interfaces — and care about the small details that make software feel sharp.
+
+- 🔭 Building AI-powered, full-stack products as a freelance developer
+- 🌱 Deepening **applied AI / ML, NLP, and LLMs**
+- ⚡ Shipping on the edge with **Cloudflare Workers + D1**
+- 💬 Open for collaborations, freelance contracts, and architecture consulting
+
+---
+
+### `> stack.config`
+
+**frontend** &nbsp;
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=flat-square&logo=vite&logoColor=BD34FE)
+
+**backend** &nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d0d0d?style=flat-square&logo=cloudflare&logoColor=F38020)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47A248)
+
+**intelligence** &nbsp;
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d0d0d?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+
+**tools** &nbsp;
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=FF6C37)
+
+---
+
+### `> github.live`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=v4run3&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=22c55e&icon_color=22c55e&text_color=cccccc&include_all_commits=true&count_private=true" alt="Varun's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4run3&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=22c55e&text_color=cccccc&langs_count=8" alt="Top languages" />
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=v4run3&hide_border=true&background=0d0d0d&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=cccccc&dates=888888&currStreakNum=cccccc&sideNums=cccccc&dayLabels=cccccc" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+```
+$ ./contact --reach-out
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-varun--vinay--bhonslay-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/varun-vinay-bhonslay/)
+[![GitHub](https://img.shields.io/badge/GitHub-@v4run3-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/v4run3)
+
+<sub>response within 24h · `available`</sub>
+
+</div>
