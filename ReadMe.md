@@ -34,39 +34,25 @@ Building robust full-stack architectures and AI-powered apps. Shipping at the ed
 
 ### `> about`
 
-First-year Master's student in Computer Engineering at **K. J. Somaiya**, focused on Python and applied AI. I build full-stack apps end-to-end — from edge APIs to LLM-powered interfaces — and care about the small details that make software feel sharp.
+Master's student in Computer Engineering, focused on Python and applied AI. I build full-stack apps end-to-end — from edge APIs to LLM-powered interfaces — and care about the small details that make software feel sharp.
 
 - 🔭 Building AI-powered, full-stack products as a freelance developer
 - 🌱 Deepening **applied AI / ML, NLP, and LLMs**
 - ⚡ Shipping on the edge with **Cloudflare Workers + D1**
 - 💬 Open for collaborations, freelance contracts, and architecture consulting
 
+
 ---
 
 ### `> stack.config`
 
-**frontend** &nbsp;
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=flat-square&logo=vite&logoColor=BD34FE)
+| | |
+|:--|:--|
+| **frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-BD34FE?style=for-the-badge&logo=vite&logoColor=white) |
+| **backend** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **intelligence** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| **tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
 
-**backend** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-0d0d0d?style=flat-square&logo=cloudflare&logoColor=F38020)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47A248)
-
-**intelligence** &nbsp;
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=3776AB)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0d0d0d?style=flat-square&logo=huggingface&logoColor=FFD21E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-
-**tools** &nbsp;
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=flat-square&logo=postman&logoColor=FF6C37)
 
 ---
 
@@ -74,26 +60,14 @@ First-year Master's student in Computer Engineering at **K. J. Somaiya**, focuse
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=v4run3&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=22c55e&icon_color=22c55e&text_color=cccccc&include_all_commits=true&count_private=true" alt="Varun's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v4run3&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=22c55e&text_color=cccccc&langs_count=8" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v4run3&theme=github_dark" alt="Profile summary" />
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v4run3&theme=github_dark" alt="Top languages" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v4run3&theme=github_dark" alt="Most committed languages" />
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=v4run3&hide_border=true&background=0d0d0d&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=cccccc&dates=888888&currStreakNum=cccccc&sideNums=cccccc&dayLabels=cccccc" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=v4run3&hide_border=true&background=0d0d0d&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=cccccc&dates=888888&currStreakNum=cccccc&sideNums=cccccc&dayLabels=cccccc" alt="GitHub streak" />
 
 </div>
 
----
-
-<div align="center">
-
-```
-$ ./contact --reach-out
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-varun--vinay--bhonslay-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/varun-vinay-bhonslay/)
-[![GitHub](https://img.shields.io/badge/GitHub-@v4run3-181717?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/v4run3)
-
-<sub>response within 24h · `available`</sub>
-
-</div>
